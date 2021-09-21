@@ -1,0 +1,82 @@
+body{
+    background-color: deepskyblue;
+}
+
+.dave{
+    text-align: center;
+        color: gold;
+        text-shadow: -1px -1px 0 goldenrod, 1px -1px 0 goldenrod, -1px 1px 0 goldenrod, 1px 1px 0 goldenrod;
+ 
+}
+
+button{
+    background-color: gray !important;
+    height: 2.25rem !important;
+}
+
+.btn-left{
+    float: right;
+}
+
+.btn-right{
+    float: left;
+}
+
+/* .weatherIMG{
+    width: 100%;
+    height: 25vw;
+    object-fit: cover;
+} */
+
+.card{
+    background-color: transparent;
+    border-width: 0ch;
+}
+
+#forecast1IMG{
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+}
+
+#forecast2IMG{
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+}
+
+#forecast3IMG{
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+}
+
+#forecast4IMG{
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+}
+
+/* .weatherForecast1{
+    background-image: url(/images/clouds.png);
+    height: 50vh;
+    background-repeat: no-repeat;
+}
+
+.weatherForecast2{
+    background-image: url(/images/clouds.png);
+    height: 50vh;
+    background-repeat: no-repeat;
+}
+
+.weatherForecast3{
+    background-image: url(/images/clouds.png);
+    height: 50vh;
+    background-repeat: no-repeat;
+}
+
+.weatherForecast4{
+    background-image: url(/images/clouds.png);
+    height: 50vh;
+    background-repeat: no-repeat;
+} */
